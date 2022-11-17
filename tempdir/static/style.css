@@ -1,0 +1,7 @@
+body { background-color:#404258;margin: 40px;color:white ;}
+
+.layout{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
